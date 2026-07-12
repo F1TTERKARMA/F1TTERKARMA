@@ -5,5 +5,5 @@
 </p>
 <p align="center">
 <a href="https://guns.lol/zaff">
-  <img src="1000017145-removebg-preview.png" width="400">
+  <img src="1000017157-removebg-preview.png" width="500">
 </a>
