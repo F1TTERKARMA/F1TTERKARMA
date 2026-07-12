@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="a4055378f40450d08d301aff44d24bfc.jpg" width="500">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dro6xu46npnmvg5vh5wmlxeikm&cover_image=true&theme=novatorem&show_offline=false&background_color=486967&interchange=false&profanity=false&hide_remaster=false&bar_color=47968e&bar_color_cover=false">
+  </a>
 </p>
 
 <!--
