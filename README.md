@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMG_20261128_181642_101~3.jpg" width="450" height="250">
+  <img src="IMG_20261128_181642_101~3.jpg" width="350" height="150">
   <p align="center">
     fast sketch at skewll :/
   <p align="center">
